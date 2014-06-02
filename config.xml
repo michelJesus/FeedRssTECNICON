@@ -6,7 +6,7 @@
         id        = "com.tecnicon.phonegap"
         version   = "1.0.0">
 
-    <name>TECNICON</name>
+    <name>infos</name>
 
     <description>
         Informações sobre produtos e serviços da TECNICON.
