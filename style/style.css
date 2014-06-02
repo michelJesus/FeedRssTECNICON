@@ -1,0 +1,45 @@
+/* 
+    Document   : style
+    Created on : 19/02/2013, 16:03:23
+    Author     : michel.jesus
+*/
+
+.imagem {
+    max-width: 100%;
+}
+.div-imagem {
+    text-align: center;
+}
+.imagem {
+    max-width: 100%;  
+}
+.italico {
+    font-style: italic;
+}
+.traducao-nome-sistema {
+    font-size: small;
+    font-weight: normal;
+}
+.li {
+    list-style-type: none;
+}
+.logos-cases {
+    width: 36px;
+    vertical-align: top;
+    float: right;
+}
+.logos-cases-conteudo {
+
+}
+.center-maps {
+    text-align: center;
+}
+.copyright {
+    font-size: 12px;
+}
+.logos-an {
+    width: 24px;
+    vertical-align: top;
+    float: right;
+}
+
